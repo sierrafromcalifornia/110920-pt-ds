@@ -1,0 +1,760 @@
+event_id,Sport,Discipline,Event
+0,Aquatics,Swimming,100M Freestyle
+1,Aquatics,Swimming,100M Freestyle For Sailors
+2,Aquatics,Swimming,1200M Freestyle
+3,Aquatics,Swimming,400M Freestyle
+4,Athletics,Athletics,100M
+5,Athletics,Athletics,110M Hurdles
+6,Athletics,Athletics,1500M
+7,Athletics,Athletics,400M
+8,Athletics,Athletics,800M
+9,Athletics,Athletics,Discus Throw
+10,Athletics,Athletics,High Jump
+11,Athletics,Athletics,Long Jump
+12,Athletics,Athletics,Marathon
+13,Athletics,Athletics,Pole Vault
+14,Athletics,Athletics,Shot Put
+15,Athletics,Athletics,Triple Jump
+16,Cycling,Cycling Road,Individual Road Race
+17,Cycling,Cycling Track,100KM
+18,Cycling,Cycling Track,10KM
+19,Cycling,Cycling Track,12-Hour Race
+20,Cycling,Cycling Track,1KM Time Trial
+21,Cycling,Cycling Track,Sprint Indivual
+22,Fencing,Fencing,Foil Individual
+23,Fencing,Fencing,"Foil, Masters"
+24,Fencing,Fencing,Sabre Individual
+25,Gymnastics,Artistic G.,Horizontal Bar
+26,Gymnastics,Artistic G.,Parallel Bars
+27,Gymnastics,Artistic G.,Pommel Horse
+28,Gymnastics,Artistic G.,Rings
+29,Gymnastics,Artistic G.,Rope Climbing
+30,Gymnastics,Artistic G.,"Team, Horizontal Bar"
+31,Gymnastics,Artistic G.,"Team, Parallel Bars"
+32,Gymnastics,Artistic G.,Vault
+33,Shooting,Shooting,25M Army Pistol
+34,Shooting,Shooting,25M Rapid Fire Pistol (60 Shots)
+35,Shooting,Shooting,50M Pistol (60 Shots)
+36,Shooting,Shooting,"Army Rifle, 200M"
+37,Shooting,Shooting,"Army Rifle, 300M"
+38,Tennis,Tennis,Doubles
+39,Tennis,Tennis,Singles
+40,Weightlifting,Weightlifting,Heavyweight - One Hand Lift
+41,Weightlifting,Weightlifting,Heavyweight - Two Hand Lift
+42,Wrestling,Wrestling Gre-R,Open Event
+43,Aquatics,Swimming,1500M Freestyle
+44,Aquatics,Swimming,200M Backstroke
+45,Aquatics,Swimming,200M Freestyle
+46,Aquatics,Swimming,200M Obstacle Event
+47,Aquatics,Swimming,200M Team Swimming
+48,Aquatics,Swimming,4000M Freestyle
+49,Aquatics,Swimming,Underwater Swimming
+50,Aquatics,Water polo,Water Polo
+51,Archery,Archery,"Au Chapelet, 33M"
+52,Archery,Archery,"Au Chapelet, 50M"
+53,Archery,Archery,"Au Cordon Doré, 33M"
+54,Archery,Archery,"Au Cordon Doré, 50M"
+55,Archery,Archery,Sur La Perche À La Herse
+56,Archery,Archery,Sur La Perche À La Pyramide
+57,Athletics,Athletics,200M
+58,Athletics,Athletics,200M Hurdles
+59,Athletics,Athletics,3000M Steeplechase
+60,Athletics,Athletics,4000M Steeplechase
+61,Athletics,Athletics,400M Hurdles
+62,Athletics,Athletics,5000M Team
+63,Athletics,Athletics,60M
+64,Athletics,Athletics,Hammer Throw
+65,Athletics,Athletics,"High Jump, Standing"
+66,Athletics,Athletics,"Long Jump, Standing"
+67,Athletics,Athletics,"Triple Jump, Standing"
+68,Basque Pelota,Basque Pelota,Cesta Punta
+69,Cricket,Cricket,Cricket
+70,Croquet,Croquet,Double
+71,Croquet,Croquet,Individual 1 Ball
+72,Croquet,Croquet,Individual 2 Balls
+73,Cycling,Cycling Track,25 Kilometres
+74,Equestrian,Jumping,High Jump
+75,Equestrian,Jumping,Individual
+76,Equestrian,Jumping,Long Jump Individual
+77,Fencing,Fencing,Épée Individual
+78,Fencing,Fencing,"Épée, Amateurs And Masters"
+79,Fencing,Fencing,"Épée, Masters"
+80,Fencing,Fencing,"Sabre, Masters"
+81,Football,Football,Football
+82,Golf,Golf,Individual
+83,Gymnastics,Artistic G.,Individual All-Round
+84,Polo,Polo,Polo
+85,Rowing,Rowing,Eight With Coxswain (8+)
+86,Rowing,Rowing,Four-Oared Shell With Coxswain (4-)
+87,Rowing,Rowing,Pair-Oared Shell With Coxswain (2+)
+88,Rowing,Rowing,Single Sculls (1X)
+89,Rugby,Rugby,Rugby
+90,Sailing,Sailing,0.5-1T
+91,Sailing,Sailing,10-20T
+92,Sailing,Sailing,3-10T
+93,Sailing,Sailing,Open Class
+94,Shooting,Shooting,"50M Army Pistol, Team"
+95,Shooting,Shooting,"Army Rifle, 300M, 3 Positions"
+96,Shooting,Shooting,"Army Rifle, 300M, Kneeling"
+97,Shooting,Shooting,"Army Rifle, 300M, Prone"
+98,Shooting,Shooting,"Army Rifle, 300M, Standing"
+99,Shooting,Shooting,"Free Rifle, Team"
+100,Shooting,Shooting,Trap (125 Targets)
+101,Tennis,Tennis,Mixed Doubles
+102,Tug of War,Tug of War,Tug Of War
+103,Aquatics,Diving,10M Platform
+104,Aquatics,Diving,Plunge For Distance
+105,Aquatics,Swimming,100M Backstroke
+106,Aquatics,Swimming,400M Breaststroke
+107,Aquatics,Swimming,4X50Y Freestyle Relay
+108,Aquatics,Swimming,50Y Freestyle (45.72M)
+109,Aquatics,Swimming,880Y Freestyle (804.66M)
+110,Archery,Archery,Double American Round (60Y - 50Y - 40Y)
+111,Archery,Archery,Double Columbia Round (50Y - 40Y - 30Y)
+112,Archery,Archery,Double National Round (60Y - 50Y)
+113,Archery,Archery,Double York Round (100Y - 80Y - 60Y)
+114,Archery,Archery,Team Round 60Y
+115,Archery,Archery,Teams Fita Round
+116,Athletics,Athletics,4Miles Team
+117,Athletics,Athletics,56LB Weight Throw (25.4KG)
+118,Athletics,Athletics,Decathlon
+119,Athletics,Athletics,Triathlon (Long Jump / Shot Put / 100 Yards)
+120,Boxing,Boxing,- 47.63KG (Flyweight)
+121,Boxing,Boxing,+ 71.67KG (Heavyweight)
+122,Boxing,Boxing,47.63 - 52.16KG (Bantamweight)
+123,Boxing,Boxing,52.16 - 56.7KG (Featherweight)
+124,Boxing,Boxing,56.7 - 61.24KG (Lightweight)
+125,Boxing,Boxing,61.24 - 65.77KG (Welterweight)
+126,Boxing,Boxing,65.77 - 71.67KG (Middleweight)
+127,Cycling,Cycling Track,1 Mile (1609.3M)
+128,Cycling,Cycling Track,1/2 Mile (804.7M)
+129,Cycling,Cycling Track,1/3 Mile (536.5M)
+130,Cycling,Cycling Track,1/4 Mile (402.3M)
+131,Cycling,Cycling Track,2 Miles (3.218KM)
+132,Cycling,Cycling Track,25 Miles (40.232KM)
+133,Cycling,Cycling Track,5 Miles (8.046KM)
+134,Fencing,Fencing,Foil Team
+135,Fencing,Fencing,"Stick, Single"
+136,Golf,Golf,Team
+137,Gymnastics,Artistic G.,Club Swinging
+138,Gymnastics,Artistic G.,Combined 3 Events
+139,Gymnastics,Artistic G.,Combined 4 Events
+140,Gymnastics,Artistic G.,Team Competition
+141,Lacrosse,Lacrosse,Lacrosse
+142,Roque,Roque,Individual
+143,Rowing,Rowing,Coxless Pair (2-)
+144,Rowing,Rowing,Double Sculls (2X)
+145,Rowing,Rowing,Four Without Coxswain (4-)
+146,Weightlifting,Weightlifting,All-Around Dumbbell Contest
+147,Wrestling,Wrestling Free.,- 47.6KG (Light-Flyweight)
+148,Wrestling,Wrestling Free.,+ 71.67KG (Heavyweight)
+149,Wrestling,Wrestling Free.,47.6 - 52.16KG (Flyweight)
+150,Wrestling,Wrestling Free.,52.16 - 56.7KG (Bantamweight)
+151,Wrestling,Wrestling Free.,56.7 - 61.23KG (Featherweight)
+152,Wrestling,Wrestling Free.,61.23 - 65.77KG (Lightweight)
+153,Wrestling,Wrestling Free.,65.77 - 71.67KG (Welterweight)
+154,Aquatics,Diving,3M Springboard
+155,Aquatics,Swimming,200M Breaststroke
+156,Aquatics,Swimming,4X200M Freestyle Relay
+157,Archery,Archery,Continental Style 50M
+158,Archery,Archery,National Round (60Y - 50Y)
+159,Archery,Archery,York Round (100Y - 80Y - 60Y)
+160,Athletics,Athletics,10Miles Walk (16093M)
+161,Athletics,Athletics,3200M Steeplechase
+162,Athletics,Athletics,3500M Walk
+163,Athletics,Athletics,3Miles Team (4828M)
+164,Athletics,Athletics,4X400M Relay
+165,Athletics,Athletics,5 Miles (8047M)
+166,Athletics,Athletics,Discus Throw Ancient Style
+167,Athletics,Athletics,Javelin Throw
+168,Athletics,Athletics,Javelin Throw Freestyle
+169,Boxing,Boxing,- 52.62KG (Bantamweight)
+170,Boxing,Boxing,52.62 - 57.15KG (Featherweight)
+171,Boxing,Boxing,57.15 - 63.5KG (Lightweight)
+172,Boxing,Boxing,63.5 - 71.67KG (Middleweight)
+173,Cycling,Cycling Track,"1980 Yards Pursuit, Team"
+174,Cycling,Cycling Track,2000M Tandem
+175,Cycling,Cycling Track,20KM
+176,Cycling,Cycling Track,5000M
+177,Cycling,Cycling Track,One Lap (660Y) Sprint
+178,Fencing,Fencing,Épée Team
+179,Fencing,Fencing,Sabre Team
+180,Hockey,Hockey,Hockey
+181,Jeu de paume,Jeu de Paume,Individual
+182,Rackets,Rackets,Double
+183,Rackets,Rackets,Individual
+184,Sailing,Sailing,12M
+185,Sailing,Sailing,6M
+186,Sailing,Sailing,7M
+187,Sailing,Sailing,8M
+188,Shooting,Shooting,"1000Y Free Rifle, Prone"
+189,Shooting,Shooting,"100M Running Deer, Double Shots"
+190,Shooting,Shooting,"100M Running Deer, Single Shots"
+191,Shooting,Shooting,"100M Running Deer, Single Shots, Team"
+192,Shooting,Shooting,"25Y Small Bore Rifle, Disappearing Target"
+193,Shooting,Shooting,"25Y Small Bore Rifle, Moving Target"
+194,Shooting,Shooting,300M Free Rifle 3 Positions (3X40 Shots)
+195,Shooting,Shooting,"50+100Y Small Bore Rifle, Team"
+196,Shooting,Shooting,50M Rifle Prone (60 Shots)
+197,Shooting,Shooting,"50Y Army Pistol, Team"
+198,Shooting,Shooting,"Clay Pigeons, Team"
+199,Shooting,Shooting,"Rifle, Team"
+200,Skating,Figure skating,Individual
+201,Skating,Figure skating,Pairs
+202,Skating,Figure skating,Special Figures
+203,Tennis,Tennis,Doubles Indoor
+204,Tennis,Tennis,Singles Indoor
+205,Water Motorsports,Water Motorspor,8M Class C
+206,Water Motorsports,Water Motorspor,Class B Up To 60 Feet
+207,Water Motorsports,Water Motorspor,Open Class A
+208,Wrestling,Wrestling Free.,- 54KG (Bantamweight)
+209,Wrestling,Wrestling Free.,+ 73KG (Heavyweight)
+210,Wrestling,Wrestling Free.,54 - 60.3KG (Featherweight)
+211,Wrestling,Wrestling Free.,60.3 - 66.6KG (Lightweight)
+212,Wrestling,Wrestling Free.,66.6 - 73KG (Middleweight)
+213,Wrestling,Wrestling Gre-R,- 66.6KG (Lightweight)
+214,Wrestling,Wrestling Gre-R,+ 93KG (Super Heavyweight)
+215,Wrestling,Wrestling Gre-R,66.6 - 73KG (Middleweight)
+216,Wrestling,Wrestling Gre-R,73 - 93KG (Light-Heavyweight)
+217,Aquatics,Diving,Plain High Diving
+218,Aquatics,Swimming,4X100M Freestyle Relay
+219,Athletics,Athletics,10000M
+220,Athletics,Athletics,10000M Walk
+221,Athletics,Athletics,3000M Team
+222,Athletics,Athletics,4X100M Relay
+223,Athletics,Athletics,5000M
+224,Athletics,Athletics,Cross Country Individual
+225,Athletics,Athletics,Cross Country Team
+226,Athletics,Athletics,"Discus Throw, Both Hands"
+227,Athletics,Athletics,"Javelin Throw, Both Hands"
+228,Athletics,Athletics,Pentathlon
+229,Athletics,Athletics,"Shot Put, Both Hands"
+230,Cycling,Cycling Road,Individual Time Trial
+231,Cycling,Cycling Road,Team Time Trial
+232,Equestrian,Dressage,Individual
+233,Equestrian,Eventing,Individual
+234,Equestrian,Eventing,Team
+235,Equestrian,Jumping,Team
+236,Gymnastics,Artistic G.,"Team, Free System"
+237,Gymnastics,Artistic G.,"Team, Swedish System"
+238,Modern Pentathlon,Modern Pentath.,Individual Competition
+239,Rowing,Rowing,Coxed Fours Jugriggers
+240,Sailing,Sailing,10M
+241,Shooting,Shooting,"25M Small Bore Rifle, Team"
+242,Shooting,Shooting,25M Small Rifle
+243,Shooting,Shooting,"30M Army Pistol, Team"
+244,Shooting,Shooting,"50M Small Bore Rifle, Team"
+245,Shooting,Shooting,600M Free Rifle
+246,Tennis,Tennis,Mixed Doubles Indoor
+247,Wrestling,Wrestling Gre-R,- 60KG (Featherweight)
+248,Wrestling,Wrestling Gre-R,+ 82.5KG (Super Heavyweight)
+249,Wrestling,Wrestling Gre-R,60 - 67.5KG (Lightweight)
+250,Wrestling,Wrestling Gre-R,67.5 - 75KG (Middleweight)
+251,Wrestling,Wrestling Gre-R,75 - 82.5KG (Light-Heavyweight)
+252,Archery,Archery,Fixed Bird Target Large Birds
+253,Archery,Archery,Fixed Bird Target Large Birds Teams
+254,Archery,Archery,"Fixed Bird Target Small Bird, Teams"
+255,Archery,Archery,Fixed Bird Target Small Birds
+256,Archery,Archery,Moving Bird Target 28M Teams
+257,Archery,Archery,Moving Bird Target 33M Teams
+258,Archery,Archery,Moving Bird Target 50M Teams
+259,Archery,Archery,"Moving Bird Target, 28M"
+260,Archery,Archery,"Moving Bird Target, 33M"
+261,Archery,Archery,"Moving Bird Target, 50M"
+262,Athletics,Athletics,3000M Walk
+263,Boxing,Boxing,- 50.8KG (Flyweight)
+264,Boxing,Boxing,+ 79.38KG (Heavyweight)
+265,Boxing,Boxing,50.8 - 53.52KG (Bantamweight)
+266,Boxing,Boxing,53.52 - 57.15KG (Featherweight)
+267,Boxing,Boxing,57.15 - 61.24KG (Lightweight)
+268,Boxing,Boxing,61.24 - 66.68KG (Welterweight)
+269,Boxing,Boxing,66.68 - 72.57KG (Middleweight)
+270,Boxing,Boxing,72.57 - 79.38KG (Light-Heavyweight)
+271,Cycling,Cycling Track,50KM
+272,Cycling,Cycling Track,Team Pursuit (4000M)
+273,Equestrian,Vaulting,Figure Riding Individual
+274,Equestrian,Vaulting,Figure Riding Team
+275,Ice Hockey,Ice Hockey,Ice Hockey
+276,Sailing,Sailing,10M (Rating 1907)
+277,Sailing,Sailing,10M (Rating 1919)
+278,Sailing,Sailing,12 Foot Dinghy
+279,Sailing,Sailing,12M (Rating 1907)
+280,Sailing,Sailing,12M (Rating 1919)
+281,Sailing,Sailing,18 Foot Dinghy
+282,Sailing,Sailing,30M Sq
+283,Sailing,Sailing,40M Sq
+284,Sailing,Sailing,6.5M (Rating 1919)
+285,Sailing,Sailing,6M (Rating 1907)
+286,Sailing,Sailing,6M (Rating 1919)
+287,Sailing,Sailing,8M (Rating 1907)
+288,Sailing,Sailing,8M (Rating 1919)
+289,Shooting,Shooting,"100M Running Deer, Double Shots, Team"
+290,Shooting,Shooting,"300+600M Free Rifle, Team, Prone"
+291,Shooting,Shooting,"300M Free Rifle, Prone, Team"
+292,Shooting,Shooting,"300M Free Rifle, Standing, Team"
+293,Shooting,Shooting,"50M Small Bore Rifle, Standing, Individual"
+294,Shooting,Shooting,"600M Free Rifle, Prone"
+295,Shooting,Shooting,"600M Free Rifle, Team"
+296,Weightlifting,Weightlifting,"- 60KG, One-Two Hand 3 Events (Featherweight)"
+297,Weightlifting,Weightlifting,"+ 82.5KG, One-Two Hand 3 Events (Heavyweight)"
+298,Weightlifting,Weightlifting,"60 - 67.5KG, One-Two Hand 3 Events (Lightweight)"
+299,Weightlifting,Weightlifting,"67.5 - 75KG, One-Two Hand 3 Events (Middleweight)"
+300,Weightlifting,Weightlifting,"75 - 82.5KG, One-Two Hand 3 E. (Light-Heavyweight)"
+301,Wrestling,Wrestling Free.,- 60KG (Featherweight)
+302,Wrestling,Wrestling Free.,+ 80KG (Heavyweight)
+303,Wrestling,Wrestling Free.,60 - 67.5KG (Lightweight)
+304,Wrestling,Wrestling Free.,67.5 - 75KG (Middleweight)
+305,Wrestling,Wrestling Free.,75 - 80KG (Light-Heavyweight)
+306,Wrestling,Wrestling Gre-R,+ 82KG (Super Heavyweight)
+307,Wrestling,Wrestling Gre-R,75 - 82KG (Light-Heavyweight)
+308,Gymnastics,Artistic G.,Sidehorse Vault
+309,Sailing,Sailing,Olympic Class Monotype
+310,Shooting,Shooting,"400, 600, 800M Free Rifle, Team"
+311,Shooting,Shooting,"600M Free Rifle, Individual"
+312,Weightlifting,Weightlifting,"- 60KG, One-Two Hand 5 Events (Featherweight)"
+313,Weightlifting,Weightlifting,"+ 82.5KG, One-Two Hand 5 Events (Heavyweight)"
+314,Weightlifting,Weightlifting,"60 - 67.5KG, One-Two Hand 5 Events (Lightweight)"
+315,Weightlifting,Weightlifting,"67.5 - 75KG, One-Two Hand 5 Events (Middleweight)"
+316,Weightlifting,Weightlifting,"75 - 82.5KG, One-Two Hand 5 E. (Light-Heavyweight)"
+317,Wrestling,Wrestling Free.,- 56KG (Bantamweight)
+318,Wrestling,Wrestling Free.,+ 87KG (Heavyweight)
+319,Wrestling,Wrestling Free.,56 - 61KG (Featherweight)
+320,Wrestling,Wrestling Free.,61 - 66KG (Lightweight)
+321,Wrestling,Wrestling Free.,66 - 72KG (Welterweight)
+322,Wrestling,Wrestling Free.,72 - 79KG (Middleweight)
+323,Wrestling,Wrestling Free.,79 - 87KG (Light-Heavyweight)
+324,Wrestling,Wrestling Gre-R,- 58KG (Bantamweight)
+325,Wrestling,Wrestling Gre-R,58 - 62KG (Featherweight)
+326,Wrestling,Wrestling Gre-R,62 - 67.5KG (Lightweight)
+327,Cycling,Cycling Track,1KM Pursuit
+328,Equestrian,Dressage,Team
+329,Sailing,Sailing,12 Foot Dinghy Individual
+330,Weightlifting,Weightlifting,"- 60KG, Total (Featherweight)"
+331,Weightlifting,Weightlifting,"+ 82.5KG, Total (Heavyweight)"
+332,Weightlifting,Weightlifting,"60 - 67.5KG, Total (Lightweight)"
+333,Weightlifting,Weightlifting,"67.5 - 75KG, Total (Middleweight)"
+334,Weightlifting,Weightlifting,"75 - 82.5KG, Total (Light-Heavyweight)"
+335,Wrestling,Wrestling Gre-R,58 - 60KG (Featherweight)
+336,Athletics,Athletics,50KM Walk
+337,Athletics,Athletics,80M Hurdles
+338,Boxing,Boxing,50.8 - 54KG (Bantamweight)
+339,Boxing,Boxing,54 - 57.15KG (Featherweight)
+340,Gymnastics,Artistic G.,Floor Exercises
+341,Gymnastics,Artistic G.,Indian Clubs
+342,Gymnastics,Artistic G.,Tumbling
+343,Sailing,Sailing,Two-Person Keelboat Open (Star)
+344,Wrestling,Wrestling Gre-R,- 56KG (Bantamweight)
+345,Wrestling,Wrestling Gre-R,+ 87KG (Super Heavyweight)
+346,Wrestling,Wrestling Gre-R,56 - 61KG (Featherweight)
+347,Wrestling,Wrestling Gre-R,61 - 66KG (Lightweight)
+348,Wrestling,Wrestling Gre-R,66 - 72KG (Welterweight)
+349,Wrestling,Wrestling Gre-R,72 - 79KG (Middleweight)
+350,Wrestling,Wrestling Gre-R,79 - 87KG (Light-Heavyweight)
+351,Basketball,Basketball,Basketball
+352,Canoe / Kayak,Canoe / Kayak F,C-1 1000M (Canoe Single)
+353,Canoe / Kayak,Canoe / Kayak F,C-2 10000M
+354,Canoe / Kayak,Canoe / Kayak F,C-2 1000M (Canoe Double)
+355,Canoe / Kayak,Canoe / Kayak F,Folding K-1 10000M
+356,Canoe / Kayak,Canoe / Kayak F,Folding K-2 10000M
+357,Canoe / Kayak,Canoe / Kayak F,K-1 10000M
+358,Canoe / Kayak,Canoe / Kayak F,K-1 1000M (Kayak Single)
+359,Canoe / Kayak,Canoe / Kayak F,K-2 10000M
+360,Canoe / Kayak,Canoe / Kayak F,K-2 1000M (Kayak Double)
+361,Handball,Handball,Handball
+362,Boxing,Boxing,- 51KG (Flyweight)
+363,Boxing,Boxing,+ 80KG (Heavyweight)
+364,Boxing,Boxing,51 - 54KG (Bantamweight)
+365,Boxing,Boxing,54 - 58KG (Featherweight)
+366,Boxing,Boxing,58 - 62KG (Lightweight)
+367,Boxing,Boxing,62 - 67KG (Welterweight)
+368,Boxing,Boxing,67 - 73KG (Middleweight)
+369,Boxing,Boxing,73 - 80KG (Light-Heavyweight)
+370,Canoe / Kayak,Canoe / Kayak F,C-1 10000M
+371,Canoe / Kayak,Canoe / Kayak F,K-1 500M (Kayak Single)
+372,Sailing,Sailing,Dragon
+373,Sailing,Sailing,Firefly Class
+374,Sailing,Sailing,Swallow (Golondrina)
+375,Weightlifting,Weightlifting,"- 56KG, Total (Bantamweight)"
+376,Weightlifting,Weightlifting,"56 - 60KG, Total (Featherweight)"
+377,Wrestling,Wrestling Free.,- 52KG (Flyweight)
+378,Wrestling,Wrestling Free.,52 - 57KG (Bantamweight)
+379,Wrestling,Wrestling Free.,57 - 63KG (Featherweight)
+380,Wrestling,Wrestling Free.,63 - 67KG (Lightweight)
+381,Wrestling,Wrestling Free.,67 - 73KG (Welterweight)
+382,Wrestling,Wrestling Free.,73 - 79KG (Middleweight)
+383,Wrestling,Wrestling Gre-R,- 52KG (Flyweight)
+384,Wrestling,Wrestling Gre-R,52 - 57KG (Bantamweight)
+385,Wrestling,Wrestling Gre-R,57 - 61KG (Featherweight)
+386,Wrestling,Wrestling Gre-R,61 - 67KG (Lightweight)
+387,Wrestling,Wrestling Gre-R,67 - 73KG (Welterweight)
+388,Wrestling,Wrestling Gre-R,73 - 79KG (Middleweight)
+389,Boxing,Boxing,+ 81KG (Heavyweight)
+390,Boxing,Boxing,54 - 57KG (Featherweight)
+391,Boxing,Boxing,57 - 60KG (Lightweight)
+392,Boxing,Boxing,60 - 63.5KG (Light-Welterweight)
+393,Boxing,Boxing,63.5 - 67KG (Welterweight)
+394,Boxing,Boxing,67 - 71KG (Light-Middleweight)
+395,Boxing,Boxing,71-75KG
+396,Boxing,Boxing,75 - 81KG (Light-Heavyweight)
+397,Gymnastics,Artistic G.,Balance Beam
+398,Gymnastics,Artistic G.,"Team, Portable Apparatus"
+399,Gymnastics,Artistic G.,Uneven Bars
+400,Modern Pentathlon,Modern Pentath.,Team Competition
+401,Sailing,Sailing,5.5M
+402,Sailing,Sailing,Single-Handed Dinghy (Finn)
+403,Shooting,Shooting,"100M Running Deer, Single/Double Shots"
+404,Shooting,Shooting,50M Rifle 3 Positions (3X40 Shots)
+405,Weightlifting,Weightlifting,"+ 90KG, Total (Heavyweight)"
+406,Weightlifting,Weightlifting,"82.5 - 90KG, Total (Middle-Heavyweight)"
+407,Aquatics,Swimming,100M Butterfly
+408,Aquatics,Swimming,200M Butterfly
+409,Athletics,Athletics,20KM Walk
+410,Sailing,Sailing,Sharpie 12M2
+411,Aquatics,Swimming,4X100M Medley Relay
+412,Canoe / Kayak,Canoe / Kayak F,K-1 4X500M
+413,Canoe / Kayak,Canoe / Kayak F,K-2 500M (Kayak Double)
+414,Sailing,Sailing,Flying Dutchman
+415,Aquatics,Swimming,400M Individual Medley
+416,Canoe / Kayak,Canoe / Kayak F,K-4 1000M (Kayak Four)
+417,Cycling,Cycling Track,Individual Pursuit
+418,Judo,Judo,- 68KG (Lightweight)
+419,Judo,Judo,+ 80KG (Heavyweight)
+420,Judo,Judo,68 - 80KG (Middleweight)
+421,Judo,Judo,Open Category
+422,Volleyball,Volleyball,Volleyball
+423,Wrestling,Wrestling Free.,+ 97KG (Heavyweight)
+424,Wrestling,Wrestling Free.,63 - 70KG (Lightweight)
+425,Wrestling,Wrestling Free.,70 - 78KG (Welterweight)
+426,Wrestling,Wrestling Free.,78 - 87KG (Middleweight)
+427,Wrestling,Wrestling Free.,87 - 97KG (Light-Heavyweight)
+428,Wrestling,Wrestling Gre-R,+ 97KG (Super Heavyweight)
+429,Wrestling,Wrestling Gre-R,57 - 63KG (Featherweight)
+430,Wrestling,Wrestling Gre-R,63 - 70KG (Lightweight)
+431,Wrestling,Wrestling Gre-R,70 - 78KG (Welterweight)
+432,Wrestling,Wrestling Gre-R,78 - 87KG (Middleweight)
+433,Wrestling,Wrestling Gre-R,87 - 97KG (Light-Heavyweight)
+434,Aquatics,Swimming,100M Breaststroke
+435,Aquatics,Swimming,200M Individual Medley
+436,Aquatics,Swimming,800M Freestyle
+437,Boxing,Boxing,- 48KG (Light-Flyweight)
+438,Boxing,Boxing,48 - 51KG (Flyweight)
+439,Shooting,Shooting,Skeet (125 Targets)
+440,Archery,Archery,Individual Fita Round
+441,Athletics,Athletics,100M Hurdles
+442,Canoe / Kayak,Canoe / Kayak S,C-1 (Canoe Single)
+443,Canoe / Kayak,Canoe / Kayak S,C-2 (Canoe Double)
+444,Canoe / Kayak,Canoe / Kayak S,K-1 (Kayak Single)
+445,Judo,Judo,- 63KG (Lightweight)
+446,Judo,Judo,+ 93KG (Heavyweight)
+447,Judo,Judo,63 - 70KG (Half-Middleweight)
+448,Judo,Judo,70 - 80KG (Middleweight)
+449,Judo,Judo,80 - 93KG (Half-Heavyweight)
+450,Sailing,Sailing,Fleet/Match Race Keelboat Open (Soling)
+451,Sailing,Sailing,Tempest
+452,Shooting,Shooting,50M Running Target (30+30 Shots)
+453,Weightlifting,Weightlifting,"- 52KG, Total (Flyweight)"
+454,Weightlifting,Weightlifting,"+ 110KG, Total (Super Heavyweight)"
+455,Weightlifting,Weightlifting,"52 - 56KG, Total (Bantamweight)"
+456,Weightlifting,Weightlifting,"91 - 110KG, Total (Heavyweight)"
+457,Wrestling,Wrestling Free.,- 48KG (Light-Flyweight)
+458,Wrestling,Wrestling Free.,+ 100KG (Super Heavyweight)
+459,Wrestling,Wrestling Free.,48 - 52KG (Flyweight)
+460,Wrestling,Wrestling Free.,57 - 62KG (Featherweight)
+461,Wrestling,Wrestling Free.,62 - 68KG (Lightweight)
+462,Wrestling,Wrestling Free.,68 - 74KG (Welterweight)
+463,Wrestling,Wrestling Free.,74 - 82KG (Middleweight)
+464,Wrestling,Wrestling Free.,82 - 90KG (Light-Heavyweight)
+465,Wrestling,Wrestling Free.,90 - 100KG (Heavyweight)
+466,Wrestling,Wrestling Gre-R,- 48KG (Light-Flyweight)
+467,Wrestling,Wrestling Gre-R,+ 100KG (Super Heavyweight)
+468,Wrestling,Wrestling Gre-R,48 - 52KG (Flyweight)
+469,Wrestling,Wrestling Gre-R,57 - 62KG (Featherweight)
+470,Wrestling,Wrestling Gre-R,62 - 68KG (Lightweight)
+471,Wrestling,Wrestling Gre-R,68 - 74KG (Welterweight)
+472,Wrestling,Wrestling Gre-R,74 - 82KG (Middleweight)
+473,Wrestling,Wrestling Gre-R,82 - 90KG (Light-Heavyweight)
+474,Wrestling,Wrestling Gre-R,90 - 100KG (Heavyweight)
+475,Canoe / Kayak,Canoe / Kayak F,C-1 500M (Canoe Single)
+476,Canoe / Kayak,Canoe / Kayak F,C-2 500M (Canoe Double)
+477,Rowing,Rowing,Pair Without Coxswain (2-)
+478,Rowing,Rowing,Quadruple Sculls With Coxswain (4X)
+479,Rowing,Rowing,Quadruple Sculls Without Coxswain (4X)
+480,Sailing,Sailing,470 - Two Person Dinghy
+481,Sailing,Sailing,Tornado - Multihull
+482,Judo,Judo,- 60 KG
+483,Judo,Judo,+ 95KG (Heavyweight)
+484,Judo,Judo,60 - 65KG (Half-Lightweight)
+485,Judo,Judo,65 - 71KG (Lightweight)
+486,Judo,Judo,71 - 78KG (Half-Middleweight)
+487,Judo,Judo,78 - 86KG (Middleweight)
+488,Judo,Judo,86 - 95KG (Half-Heavyweight)
+489,Weightlifting,Weightlifting,"100 - 110KG, Total (Heavyweight)"
+490,Weightlifting,Weightlifting,"90 - 100KG, Total (First-Heavyweight)"
+491,Aquatics,Synchronized S.,Duet
+492,Aquatics,Synchronized S.,Solo
+493,Athletics,Athletics,3000M
+494,Athletics,Athletics,Heptathlon
+495,Boxing,Boxing,+ 91KG (Super Heavyweight)
+496,Boxing,Boxing,81 - 91KG (Heavyweight)
+497,Canoe / Kayak,Canoe / Kayak F,K-4 500M (Kayak Four)
+498,Cycling,Cycling Track,Points Race
+499,Gymnastics,Rhythmic G.,Individual All-Round
+500,Sailing,Sailing,Board (Windglider)
+501,Shooting,Shooting,10M Air Rifle (40 Shots)
+502,Shooting,Shooting,10M Air Rifle (60 Shots)
+503,Shooting,Shooting,25M Pistol (30+30 Shots)
+504,Shooting,Shooting,50M Rifle 3 Positions (3X20 Shots)
+505,Aquatics,Swimming,50M Freestyle
+506,Cycling,Cycling Track,Sprint
+507,Sailing,Sailing,Board (Division Ii)
+508,Shooting,Shooting,10M Air Pistol (40 Shots)
+509,Shooting,Shooting,10M Air Pistol (60 Shots)
+510,Table Tennis,Table Tennis,Doubles
+511,Table Tennis,Table Tennis,Singles
+512,Wrestling,Wrestling Free.,100 - 130KG (Super Heavyweight)
+513,Wrestling,Wrestling Gre-R,100 - 130KG (Super Heavyweight)
+514,Archery,Archery,Individual (Fita Olympic Round - 70M)
+515,Archery,Archery,Team (Fita Olympic Round - 70M)
+516,Badminton,Badminton,Doubles
+517,Badminton,Badminton,Singles
+518,Baseball,Baseball,Baseball
+519,Judo,Judo,- 48KG (Extra-Lightweight)
+520,Judo,Judo,+ 72KG (Heavyweight)
+521,Judo,Judo,48 - 52KG (Half-Lightweight)
+522,Judo,Judo,52 - 56KG (Lightweight)
+523,Judo,Judo,56 - 61KG (Half-Middleweight)
+524,Judo,Judo,61 - 66KG (Middleweight)
+525,Judo,Judo,66 - 72KG (Half-Heavyweight)
+526,Rowing,Rowing,Coxless Four (4-)
+527,Sailing,Sailing,Board (Lechner)
+528,Sailing,Sailing,Single-Handed Dinghy (Europe)
+529,Aquatics,Synchronized S.,Team
+530,Cycling,Mountain Bike,Cross-Country
+531,Gymnastics,Rhythmic G.,Group Competition
+532,Judo,Judo,+ 100KG (Heavyweight)
+533,Judo,Judo,60 - 66KG (Half-Lightweight)
+534,Judo,Judo,66 - 73KG (Lightweight)
+535,Judo,Judo,73 - 81KG (Half-Middleweight)
+536,Judo,Judo,81 - 90KG (Middleweight)
+537,Judo,Judo,90 - 100KG (Half-Heavyweight)
+538,Rowing,Rowing,Lightweight Coxless Four (4-)
+539,Rowing,Rowing,Lightweight Double Sculls (2X)
+540,Sailing,Sailing,Board (Mistral)
+541,Sailing,Sailing,Single-Handed Dinghy Open (Laser)
+542,Shooting,Shooting,Double Trap (120 Targets)
+543,Shooting,Shooting,Double Trap (150 Targets)
+544,Softball,Softball,Softball
+545,Volleyball,Beach volley.,Beach Volleyball
+546,Weightlifting,Weightlifting,"- 54KG, Total (Flyweight)"
+547,Weightlifting,Weightlifting,"+ 108KG, Total (Super Heavyweight)"
+548,Weightlifting,Weightlifting,"54 - 59KG, Total (Bantamweight)"
+549,Weightlifting,Weightlifting,"59 - 64KG, Total (Featherweight)"
+550,Weightlifting,Weightlifting,"64 - 70KG, Total (Lightweight)"
+551,Weightlifting,Weightlifting,"70 - 76KG, Total (Middleweight)"
+552,Weightlifting,Weightlifting,"76 - 83KG, Total (Light-Heavyweight)"
+553,Weightlifting,Weightlifting,"83 - 91KG, Total (Middle-Heavyweight)"
+554,Weightlifting,Weightlifting,"91 - 99KG, Total (First-Heavyweight)"
+555,Weightlifting,Weightlifting,"99 - 108KG, Total (Heavyweight)"
+556,Aquatics,Diving,Synchronized Diving 10M Platform
+557,Aquatics,Diving,Synchronized Diving 3M Springboard
+558,Athletics,Athletics,20KM Race Walk
+559,Cycling,Cycling Track,500M Time Trial
+560,Cycling,Cycling Track,Keirin
+561,Cycling,Cycling Track,Madison
+562,Cycling,Cycling Track,Olympic Sprint
+563,Gymnastics,Trampoline,Individual
+564,Judo,Judo,+ 78KG (Heavyweight)
+565,Judo,Judo,52 - 57KG (Lightweight)
+566,Judo,Judo,57 - 63KG (Half-Middleweight)
+567,Judo,Judo,63 - 70KG (Middleweight)
+568,Judo,Judo,70 - 78KG (Half-Heavyweight)
+569,Sailing,Sailing,49Er - Skiff
+570,Shooting,Shooting,10M Running Target (30+30 Shots)
+571,Shooting,Shooting,Skeet (75 Targets)
+572,Shooting,Shooting,Trap (75 Targets)
+573,Taekwondo,Taekwondo,- 49 KG
+574,Taekwondo,Taekwondo,- 58 KG
+575,Taekwondo,Taekwondo,+ 67 KG
+576,Taekwondo,Taekwondo,+ 80 KG
+577,Taekwondo,Taekwondo,49 - 57 KG
+578,Taekwondo,Taekwondo,57 - 67 KG
+579,Taekwondo,Taekwondo,58 - 68 KG
+580,Taekwondo,Taekwondo,68 - 80 KG
+581,Triathlon,Triathlon,Individual
+582,Weightlifting,Weightlifting,+ 105KG
+583,Weightlifting,Weightlifting,+ 75KG
+584,Weightlifting,Weightlifting,105KG
+585,Weightlifting,Weightlifting,48KG
+586,Weightlifting,Weightlifting,53KG
+587,Weightlifting,Weightlifting,56KG
+588,Weightlifting,Weightlifting,58KG
+589,Weightlifting,Weightlifting,62KG
+590,Weightlifting,Weightlifting,63KG
+591,Weightlifting,Weightlifting,69KG
+592,Weightlifting,Weightlifting,75KG
+593,Weightlifting,Weightlifting,77KG
+594,Weightlifting,Weightlifting,85KG
+595,Weightlifting,Weightlifting,94KG
+596,Wrestling,Wrestling Free.,48 - 54KG
+597,Wrestling,Wrestling Free.,54 - 58KG
+598,Wrestling,Wrestling Free.,58 - 63KG
+599,Wrestling,Wrestling Free.,63 - 69KG
+600,Wrestling,Wrestling Free.,69 - 76KG
+601,Wrestling,Wrestling Free.,76 - 85KG
+602,Wrestling,Wrestling Free.,85 - 97KG
+603,Wrestling,Wrestling Free.,97 - 130KG
+604,Wrestling,Wrestling Gre-R,48 - 54KG
+605,Wrestling,Wrestling Gre-R,54 - 58KG
+606,Wrestling,Wrestling Gre-R,58 - 63KG
+607,Wrestling,Wrestling Gre-R,63 - 69KG
+608,Wrestling,Wrestling Gre-R,69 - 76KG
+609,Wrestling,Wrestling Gre-R,76 - 85KG
+610,Wrestling,Wrestling Gre-R,85 - 97KG
+611,Wrestling,Wrestling Gre-R,97 - 130KG
+612,Boxing,Boxing,48KG (Light Flywieght)
+613,Boxing,Boxing,60 - 64 KG
+614,Boxing,Boxing,64 - 69 KG
+615,Boxing,Boxing,69 - 75 KG
+616,Cycling,Cycling Track,Team Sprint
+617,Judo,Judo,- 48 KG
+618,Sailing,Sailing,Star - Keelboat
+619,Sailing,Sailing,Yngling - Keelboat
+620,Wrestling,Wrestling Free.,- 48KG
+621,Wrestling,Wrestling Free.,- 55KG
+622,Wrestling,Wrestling Free.,48 - 55KG
+623,Wrestling,Wrestling Free.,55 - 60KG
+624,Wrestling,Wrestling Free.,55 - 63KG
+625,Wrestling,Wrestling Free.,60 - 66KG
+626,Wrestling,Wrestling Free.,63 - 72KG
+627,Wrestling,Wrestling Free.,66 - 74KG
+628,Wrestling,Wrestling Free.,74 - 84KG
+629,Wrestling,Wrestling Free.,84 - 96KG
+630,Wrestling,Wrestling Free.,96 - 120KG
+631,Wrestling,Wrestling Gre-R,- 55KG
+632,Wrestling,Wrestling Gre-R,55 - 60KG
+633,Wrestling,Wrestling Gre-R,60 - 66KG
+634,Wrestling,Wrestling Gre-R,66 - 74KG
+635,Wrestling,Wrestling Gre-R,74 - 84KG
+636,Wrestling,Wrestling Gre-R,84 - 96KG
+637,Wrestling,Wrestling Gre-R,96 - 120KG
+638,Aquatics,Swimming,Marathon 10KM
+639,Cycling,BMX,Individual
+640,Sailing,Sailing,Finn - Heavyweight Dinghy
+641,Sailing,Sailing,Laser - One Person Dinghy
+642,Sailing,Sailing,Laser Radial - One Person Dinghy
+643,Sailing,Sailing,Rs:X - Windsurfer
+644,Table Tennis,Table Tennis,Team
+645,Aquatics,Diving,Synchronized 10M
+646,Aquatics,Diving,Synchronized 3M
+647,Aquatics,Marathon swimming,10KM
+648,Aquatics,Swimming,200M Medley
+649,Aquatics,Swimming,400M Medley
+650,Aquatics,Swimming,4X100M Freestyle
+651,Aquatics,Swimming,4X100M Medley
+652,Aquatics,Swimming,4X200M Freestyle
+653,Aquatics,Synchronized Swimming,Duet
+654,Aquatics,Synchronized Swimming,Team
+655,Aquatics,Water Polo,Water Polo
+656,Archery,Archery,Individual
+657,Archery,Archery,Team
+658,Athletics,Athletics,3000M Steeple
+659,Boxing,Boxing,+ 91KG
+660,Boxing,Boxing,46 - 49KG
+661,Boxing,Boxing,51 KG
+662,Boxing,Boxing,52KG
+663,Boxing,Boxing,56KG
+664,Boxing,Boxing,57 - 60KG
+665,Boxing,Boxing,60 KG
+666,Boxing,Boxing,75 - 81KG
+667,Boxing,Boxing,75 KG
+668,Boxing,Boxing,81 - 91KG
+669,Canoe,Canoe Slalom,C-1 (Single)
+670,Canoe,Canoe Slalom,C-2 (Double)
+671,Canoe,Canoe Slalom,K-1 (Single)
+672,Canoe,Canoe Sprint,C-1 1000M
+673,Canoe,Canoe Sprint,C-1 200M
+674,Canoe,Canoe Sprint,C-2 1000M
+675,Canoe,Canoe Sprint,K-1 1000M
+676,Canoe,Canoe Sprint,K-1 200M
+677,Canoe,Canoe Sprint,K-1 500M
+678,Canoe,Canoe Sprint,K-2 1000M
+679,Canoe,Canoe Sprint,K-2 200M
+680,Canoe,Canoe Sprint,K-2 500M
+681,Canoe,Canoe Sprint,K-4 1000M
+682,Canoe,Canoe Sprint,K-4 500M
+683,Cycling,Cycling BMX,Individual
+684,Cycling,Cycling Road,Individual Road
+685,Cycling,Cycling Road,Time Trial
+686,Cycling,Cycling Track,Omnium
+687,Cycling,Cycling Track,Team Pursuit
+688,Gymnastics,Gymnastics Artistic,Beam
+689,Gymnastics,Gymnastics Artistic,Floor Exercises
+690,Gymnastics,Gymnastics Artistic,Horizontal Bar
+691,Gymnastics,Gymnastics Artistic,Individual All-Around
+692,Gymnastics,Gymnastics Artistic,Parallel Bars
+693,Gymnastics,Gymnastics Artistic,Pommel Horse
+694,Gymnastics,Gymnastics Artistic,Rings
+695,Gymnastics,Gymnastics Artistic,Team Competition
+696,Gymnastics,Gymnastics Artistic,Uneven Bars
+697,Gymnastics,Gymnastics Artistic,Vault
+698,Gymnastics,Gymnastics Rhythmic,Group Competition
+699,Gymnastics,Gymnastics Rhythmic,Individual All-Around
+700,Judo,Judo,+ 100KG
+701,Judo,Judo,+ 78KG
+702,Judo,Judo,48 - 52KG
+703,Judo,Judo,52 - 57KG
+704,Judo,Judo,57 - 63KG
+705,Judo,Judo,60 - 66KG
+706,Judo,Judo,63 - 70KG
+707,Judo,Judo,66 - 73KG
+708,Judo,Judo,70 - 78KG
+709,Judo,Judo,73 - 81KG
+710,Judo,Judo,81 - 90KG
+711,Judo,Judo,90 - 100KG
+712,Modern Pentathlon,Modern Pentathlon,Individual
+713,Rowing,Rowing,Coxless Four
+714,Rowing,Rowing,Coxless Pair 2-
+715,Rowing,Rowing,Double Sculls
+716,Rowing,Rowing,Eight With Coxswain
+717,Rowing,Rowing,Lightweight 4
+718,Rowing,Rowing,Lightweight Doubles
+719,Rowing,Rowing,Quadruple Sculls
+720,Rowing,Rowing,Single Sculls
+721,Sailing,Sailing,470
+722,Sailing,Sailing,Elliott 6M
+723,Sailing,Sailing,Finn
+724,Sailing,Sailing,Laser
+725,Sailing,Sailing,Laser Radial
+726,Sailing,Sailing,Rs:X
+727,Sailing,Sailing,Star
+728,Shooting,Shooting,10M Air Pistol
+729,Shooting,Shooting,10M Air Rifle
+730,Shooting,Shooting,25M Pistol
+731,Shooting,Shooting,25M Rapid Pistol
+732,Shooting,Shooting,50M Pistol
+733,Shooting,Shooting,50M Rifle 3 Positions
+734,Shooting,Shooting,50M Rifle Prone
+735,Shooting,Shooting,Double Trap 150
+736,Shooting,Shooting,Skeet
+737,Shooting,Shooting,Trap
+738,Volleyball,Beach Volleyball,Beach Volleyball
+739,Weightlifting,Weightlifting,+105KG
+740,Weightlifting,Weightlifting,+75KG
+741,Weightlifting,Weightlifting,-56KG
+742,Wrestling,Wrestling Freestyle,Wf 120KG
+743,Wrestling,Wrestling Freestyle,Wf 48 KG
+744,Wrestling,Wrestling Freestyle,Wf 55 KG
+745,Wrestling,Wrestling Freestyle,Wf 60 KG
+746,Wrestling,Wrestling Freestyle,Wf 63 KG
+747,Wrestling,Wrestling Freestyle,Wf 66 KG
+748,Wrestling,Wrestling Freestyle,Wf 72 KG
+749,Wrestling,Wrestling Freestyle,Wf 74 KG
+750,Wrestling,Wrestling Freestyle,Wf 84 KG
+751,Wrestling,Wrestling Freestyle,Wf 96 KG
+752,Wrestling,Wrestling Freestyle,Wg 120 KG
+753,Wrestling,Wrestling Freestyle,Wg 55 KG
+754,Wrestling,Wrestling Freestyle,Wg 60 KG
+755,Wrestling,Wrestling Freestyle,Wg 66 KG
+756,Wrestling,Wrestling Freestyle,Wg 74 KG
+757,Wrestling,Wrestling Freestyle,Wg 84 KG
+758,Wrestling,Wrestling Freestyle,Wg 96 KG
